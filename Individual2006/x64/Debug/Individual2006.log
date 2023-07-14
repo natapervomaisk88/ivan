@@ -1,0 +1,4 @@
+﻿  11072023.cpp
+C:\Users\Natalya\source\repos\Individual2006\Individual2006\11072023.cpp(74,6): warning C4101: 'n': unreferenced local variable
+C:\Users\Natalya\source\repos\Individual2006\Individual2006\11072023.cpp(71,7): warning C4101: 'n': unreferenced local variable
+  Individual2006.vcxproj -> C:\Users\Natalya\source\repos\Individual2006\x64\Debug\Individual2006.exe
